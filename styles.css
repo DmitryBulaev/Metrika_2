@@ -95,7 +95,7 @@ h3 {
     position: relative;
     width: 1150px;
     height: 500px;
-    background-image: url('Preview.png');
+    background-image: url('/Preview.png');
     color: #FFFFFF;
 }
 .preview__text {
@@ -217,7 +217,7 @@ h3 {
     margin-top: 150px;
     width: 100%;
     height: 717px;
-    background-image: url('Project.png');
+    background-image: url('/Project.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -258,7 +258,7 @@ h3 {
     height: 24px;
     bottom: 37px;
     left: -4px;
-    background-image: url('phone.png');
+    background-image: url('/phone.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
